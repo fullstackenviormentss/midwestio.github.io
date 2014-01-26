@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Midwest.io Code of Conduct"
 ---
 
