@@ -5,6 +5,11 @@ See the documentation for [Octopress](http://octopress.org/docs/) and [Jekyll](h
     git clone git@github.com:midwestio/midwestio.github.io.git
     cd midwestio.github.io
     git checkout source
+    bundle install
+
+# Running Locally
+
+    rake preview
 
 # Deploying Changes
 
