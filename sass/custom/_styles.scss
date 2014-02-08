@@ -1,2 +1,46 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+#content .center-div
+{
+  margin: 0 auto;
+  float: center;
+}
+
+.img {
+  float: center;
+}
+
+#main {
+  height: 5000px;
+}
+
+#about {
+  position: fixed;
+  top: 200px;
+}
+
+#venue {
+  position: relative;
+  top: 500px;
+}
+
+#call-for-presentations {
+  position: relative;
+  top: 800px;
+}
+
+#register {
+  position: relative;
+  top: 1200px;
+}
+
+#sponsors {
+  position: relative;
+  top: 1500px;
+}
+
+#contact {
+  position: relative;
+  top: 1800px;
+}
